@@ -1,38 +1,31 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+<!-- place 'x' mark between square [] brackets to checkmark box -->
 
----
+[] I have searched the existing issues (https://github.com/SleeplessKnights/issue-tracker/issues) to see if the issue I am reporting has already been addressed or opened by another contributor
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- Issues will be closed without being looked into if the following information is missing (unless its not applicable). -->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**_Installation Method_** (KR installer / DSP main / Other) **:** 
+
+**_Client Version_** (type `/ver` in game) **:** 
+
+**_Bootloader_** (Ashita or Windower) **:** 
+
+**_Describe the Issue_**
+
+* _a clear and concise description of what the bug is._
+
+**Steps to Reproduce**
+
+* _include steps to reproduce the behavior._
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+
+* _a clear and concise description of what should happen._
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+* _if applicable, add screenshots to help explain your problem._
 
 **Additional context**
-Add any other context about the problem here.
+
+* _add any additional context here._
