@@ -4,7 +4,7 @@ Welcome to the Kujata Reborn bug tracker, a place for players to report issues e
 
 * IRC: irc://irc.HoshinoLabs.net/kujatareborn
 
-# How to report a bug
+# How to report an issue
 
 1. Sign in or register a new account on GitHub
 
